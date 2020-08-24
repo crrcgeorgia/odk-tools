@@ -1,23 +1,23 @@
-﻿col,lab
-labelka,საქართველოს მოქალაქეები ქართულად უნდა საუბრობდნენ
-labelka,"მე ვამაყობ, რომ საქართველოს მოქალაქე ვარ"
-labelka,საქართველოს მოქალაქეები მართლმადიდებელი ქრისტიანები უნდა იყვნენ
-labelka,მხოლოდ ეთნიკურად ქართველებს უნდა შეეძლოთ იყვნენ საქართველოს მოქალაქეები
-labelka,"თუ ეთნიკური უმცირესობის წარმომადგენელს სურს საჯარო სამსახურში მუშაობა, მან ქართული უნდა იცოდეს"
-labelka,"იყო ქართველი, ნიშნავს იყო ევროპელი"
-labelka,არჩევნებში მივცემდი ხმას ჩემგან განსხვავებული რელიგიის ადამიანს
-labelka,არჩევნებში ხმას მივცემდი ჩემგან განსხვავებული ეთნიკური წარმომავლობის მქონე ადამიანს
-labelka,"არჩევნებში ხმას მივცემდი იმას, ვინც სხვა ენაზე საუბრობს"
-labelka,"საქართველოში დამოუკიდებლობის მიღების შემდეგ მომხდარი ომები გვაჩვენებს, რომ ქვეყანა და მოსახლეობა ეთნიკური უმცირესობების მიმართ უფრო ტოლერანტული უნდა იყოს"
-labelka,"საქართველოში დამოუკიდებლობის მიღების შემდეგ მომხდარი სეპარატისტული ომები გვაჩვენებს, რომ  ეთნიკური და ენობრივი უმცირესობების წარმომადგენლები ქვეყნის უსაფრთხოებისთვის პოტენციურ საფრთხეს წარმოადგენენ "
-labelen,Georgian citizens should speak Georgian
-labelen,I am proud to be a Georgian citizen
-labelen,Georgian citizens should be Orthodox Christians
-labelen,Only ethnic Georgians should be allowed to be Georgian citizens
-labelen,"If an ethnic minority wants to work in the civil service, they should know Georgian"
-labelen,To be Georgian means to be European
-labelen,I would vote for someone who is a different religion than me
-labelen,I would vote for someone who is a different ethnicity than me
-labelen,I would vote for someone who speaks a different
-labelen,The wars that Georgia has been involved in since independence show that the country and population needs to be more tolerant of ethnic minorities
-labelen,The separatist wars that Georgia has been involved in since independence show that the ethnic and linguistic minorities are a potential security threat for Georgia
+﻿measurement,col,lab
+q2_1,labelka,საქართველოს მოქალაქეები ქართულად უნდა საუბრობდნენ
+q2_2,labelka,"მე ვამაყობ, რომ საქართველოს მოქალაქე ვარ"
+q2_3,labelka,საქართველოს მოქალაქეები მართლმადიდებელი ქრისტიანები უნდა იყვნენ
+q2_4,labelka,მხოლოდ ეთნიკურად ქართველებს უნდა შეეძლოთ იყვნენ საქართველოს მოქალაქეები
+q2_5,labelka,"თუ ეთნიკური უმცირესობის წარმომადგენელს სურს საჯარო სამსახურში მუშაობა, მან ქართული უნდა იცოდეს"
+q2_6,labelka,"იყო ქართველი, ნიშნავს იყო ევროპელი"
+q2_7,labelka,არჩევნებში მივცემდი ხმას ჩემგან განსხვავებული რელიგიის ადამიანს
+q2_8,labelka,არჩევნებში ხმას მივცემდი ჩემგან განსხვავებული ეთნიკური წარმომავლობის მქონე ადამიანს
+q2_9,labelka,"არჩევნებში ხმას მივცემდი იმას, ვინც სხვა ენაზე საუბრობს"
+q2_10,labelka,"საქართველოში დამოუკიდებლობის მიღების შემდეგ მომხდარი ომები გვაჩვენებს, რომ ქვეყანა და მოსახლეობა ეთნიკური უმცირესობების მიმართ უფრო ტოლერანტული უნდა იყოს"
+q2_11,labelka,"საქართველოში დამოუკიდებლობის მიღების შემდეგ მომხდარი სეპარატისტული ომები გვაჩვენებს, რომ  ეთნიკური და ენობრივი უმცირესობების წარმომადგენლები ქვეყნის უსაფრთხოებისთვის პოტენციურ საფრთხეს წარმოადგენენ "
+q2_1,labelen,Georgian citizens should speak Georgian
+q2_2,labelen,I am proud to be a Georgian citizen
+q2_3,labelen,Georgian citizens should be Orthodox Christians
+q2_4,labelen,Only ethnic Georgians should be allowed to be Georgian citizens
+q2_5,labelen,"If an ethnic minority wants to work in the civil service, they should know Georgian"
+q2_6,labelen,To be Georgian means to be European
+q2_7,labelen,I would vote for someone who is a different religion than me
+q2_8,labelen,I would vote for someone who is a different ethnicity than me
+q2_9,labelen,I would vote for someone who speaks a different
+q2_10,labelen,The wars that Georgia has been involved in since independence show that the country and population needs to be more tolerant of ethnic minorities
+q2_11,labelen,The separatist wars that Georgia has been involved in since independence show that the ethnic and linguistic minorities are a potential security threat for Georgia
